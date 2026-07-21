@@ -1,0 +1,21 @@
+# Deep Learning
+torch
+transformers
+datasets
+accelerate
+evaluate
+huggingface_hub
+
+# Machine Learning
+scikit-learn
+
+# Data Processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Explainable AI
+lime
